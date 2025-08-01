@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.header{
+    background-color: rgb(7, 99, 130);
+}
+.navbar a img{
+    width: 150px;
+}
+.navbar{
+    font-size: 13px;
+}
